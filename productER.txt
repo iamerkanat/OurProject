@@ -1,0 +1,14 @@
++-------------------+          +------------------+          +---------------------+
+|    Product        |          |     Category     |          |      Supplier       |
++-------------------+          +------------------+          +---------------------+
+| - ProductID       |1    M    | - CategoryID     |    M     | - SupplierID        |
+| - Name            |----------| - Name           |----------| - Name              |
+| - Description     |          | - All Projects   |          | - Address           |
+| - Price           |          | - CompanyName Fil|          | - License&Recomen   |
+| - ImageURL        |          +------------------+          | - Phone Number      |
+| - Supplier Name   |                                        | - Email             |
+| - CategoryID      |                                        | - Rating            |
+| - Rating          |                                        | - Delivery          |
+| - WishList        |                                        +---------------------+
+| - Characteristics |
++-------------------+                                        
